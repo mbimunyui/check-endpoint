@@ -1,6 +1,6 @@
 import requests
 
-url_set = ['https://www.google.com', 'https://www.netflix.com', 'http://uber.net', 'http://upmenu.org', 'https://www.youtube.com']
+url_set = ['https://www.google.com', 'https://www.netflix.com', 'https://www.osuokc.edu', 'https://utrains.org', 'http://uber.net', 'http://upmenu.org', 'https://www.youtube.com']
 
 for _url in url_set:
     try:
